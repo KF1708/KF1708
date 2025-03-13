@@ -1,31 +1,31 @@
-[!["Banner"](./assets/updated-black-banner.png)](https://linkedin.com/in/riajul-pro)
+[!["Banner"](./assets/bg.jpg)](https://linkedin.com/in/riajul-pro)
 
-<h1 align="center">Hello there! 👋, I'm RiaJul</h1>
+<h1 align="center">Hello there! 👋, I'm Kaniz</h1>
 <h3 align="center">A Frontend Developer with React and Next.js Experience</h3>
 
 <h1>📑About me</h1>
 
-Hello there! I'm RiaJul Pro, a dedicated `MERN` stack developer and front-end specialist with a passion for crafting seamless and visually appealing websites. I specialize in translating your ideas into interactive and functional web applications. Whether you're a small business aiming to establish an online presence or a medium-sized enterprise looking to enhance your digital footprint, I've got you covered.
+Hello there! I'm Kaniz, a `Frontend` developer specialist with a passion for crafting seamless and visually appealing websites. I specialize in translating your ideas into interactive and functional web applications.I am committed to developing not just functional websites but immersive digital journeys that are user-friendly,
+memorable, and exceed client expectations.
 
 # 💫 Stay in touch with:
 
-[!["email"](./assets/email-small.png)](mailto:riajulpro@outlook.com)
-[!["linkedin"](./assets/linkedin.png)](https://linkedin.com/in/riajul-pro)
-[!["facebook"](./assets/facebook.png)](https://facebook.com/pro.riajul)
+[!["email"](./assets/email.png)](mailto:kftech.va@gmail.com)
+[!["linkedin"](./assets/linkedin.png)]()
 
 # 💻 My Work Space:
 
-Ambitious junior web developer skilled in `React, Next.js, Node.js, Express, and MongoDB`.
+Ambitious junior web developer skilled in `React, Next.js, Tailwind`.
 Dedicated to delivering high-quality code and staying abreast of emerging technologies. Seeking
 a challenging role to contribute and learn in an innovative environment.
 
 # Technical Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongo,express,firebase,git,github,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,cypress,postman,sass,tailwind,vscode,github,bootstrap)](https://skillicons.dev)
 
 # I am trying to explore:
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,materialui,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,typescript,vercel)](https://skillicons.dev)
 
 # My Stats:
 
