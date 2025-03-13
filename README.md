@@ -29,15 +29,15 @@ a challenging role to contribute and learn in an innovative environment.
 
 # My Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riajulpro&show_icons=true&theme=dracula&border_color=333)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kf1708&show_icons=true&theme=dracula&border_color=333)
 
 # Most Used Language into the Repo:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riajulpro&layout=donut&theme=dracula&border_color=333)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kf1708&layout=donut&theme=dracula&border_color=333)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Streak:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riajulpro&theme=dracula&mode=daily&border_color=333)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kf1708&theme=dracula&mode=daily&border_color=333)](https://git.io/streak-stats)
 
 # My Recent Projects Info:
 
