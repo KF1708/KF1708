@@ -1,4 +1,4 @@
-[!["Banner"](./assets/bg1.jpg)](https://linkedin.com/in/riajul-pro)
+[!["Banner"](./assets/bg1.png)](https://linkedin.com/in/riajul-pro)
 
 <h1 align="center">Hello there! 👋, I'm Kaniz</h1>
 <h3 align="center">A Frontend Developer with React and Next.js Experience</h3>
